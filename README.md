@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EduardoLlamosasIncentro
+- 👋 Hi, I’m @EduLlamosas
 - 👀 I’m interested CMS, Typescrypt and FullStack Development
 - 🌱 I’m currently learning Contentful + React
 - 💞️ I’m looking to collaborate on new projects

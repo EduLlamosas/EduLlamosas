@@ -2,7 +2,7 @@
 - 👀 I’m interested CMS, Typescrypt and FullStack Development
 - 🌱 I’m currently learning Contentful + React
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me: eduardo.llamosas@incentro.com 
+- 📫 How to reach me: edullcc@hotmail.com
 
 
 <!---
